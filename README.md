@@ -9,7 +9,7 @@
 | Prenom | **Romain**  |
 | Age    | **39**      |
 | Ville  | **Paris**   |
-| Avatar | <img src="https://github.com/romlec/challenge-markdown/blob/main/photo_avatar.jpg" width="100">  |
+| Avatar | <img src="./photo_avatar.jpg" width="100"> |
 
 ## Présentation
 
